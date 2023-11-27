@@ -243,9 +243,9 @@ ul{
   padding:5px 15px;
 }
 
-/* .aside .nav li a.active{
+.aside .nav li a.active{
   color: var(--skin-color);
-} */
+}
 
 .aside .nav li a i{
   margin-right: 15px;
@@ -371,14 +371,12 @@ h3.my_profession{
 }
 
 .assignment_inner_item{
-  
   overflow: hidden;
 }
 
 .assignment_name{
   color: var(--text-black-700);
   font-size: 18px;
-  margin-bottom: 5px;
 }
 
 .assignment_img img{
